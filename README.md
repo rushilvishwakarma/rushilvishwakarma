@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @rushilvishwakarma
+- 👋 Hi, I’m @[rushilvishwakarma](https://rushil-vishwakarma.vercel.app/)
 - 👀 I’m interested in Full Stack & App Development 
 - 🌱 I’m currently learning ReactNative
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 reach me via Instagram at @relive.rushil
-- 😄 Pronouns: He/Him
+- 📫 reach me via Instagram at @whyfeverdream
+- 😄 Pronouns: He/Him 
 - ⚡ [View my Portfolio](https://rushilvishwakarma.netlify.app/)
 
 <!---
